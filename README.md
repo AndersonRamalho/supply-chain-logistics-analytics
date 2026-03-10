@@ -1,4 +1,4 @@
-# supply-chain-logistics-analytics
+# Supply Chain / Logistics Analytics
 Repositório para publicar projetos pessoais voltados a área de Supply Chain e Analytics de Logística, voltados para desenvolvimento pessoal
 
 Esse projeto visa analizar indicadores de performance voltados a área Logística como OTIF, Fill Rate, OCT e custos de Frete.
