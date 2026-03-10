@@ -12,11 +12,11 @@ SQL
 Excel
 
 KPIs analisados:
-OTIF
-Fill Rate
-Freight Costs
-Delivery Performance
-OCT
+* OTIF
+* Fill Rate
+* Freight Costs
+* Delivery Performance
+* OCT
 
 Principais insights:
 Transporter performance
