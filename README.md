@@ -19,6 +19,6 @@ KPIs analisados:
 * OCT
 
 Principais insights:
-Transporter performance
-Regional logistics efficiency
-Freight cost analysis
+* Transporter performance
+* Regional logistics efficiency
+* Freight cost analysis
